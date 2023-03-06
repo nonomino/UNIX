@@ -1,2 +1,3 @@
-# UNIX - *Uniplexed Information and Computing Service**** (Unics) *
+# UNIX
+#### *Uniplexed Information and Computing Service
 
