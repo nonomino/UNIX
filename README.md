@@ -1,2 +1,2 @@
-# UNIX
-Me having fun with UNIX/Linux 😎
+# UNIX - *Uniplexed Information and Computing Service**** (Unics) *
+
